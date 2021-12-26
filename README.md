@@ -12,5 +12,5 @@ Herramientas a utilizar en la prueba:
 
 La API a utilizar es la siguiente:
 
-GET - https://my-json-server.typicode.com/yickson/serverjson/hotels (Devuelve la data de todos los hoteles)
-GET - https://my-json-server.typicode.com/yickson/serverjson/hotels/{id} (Devuelve la data de un hotel individual)
+- GET - https://my-json-server.typicode.com/yickson/serverjson/hotels (Devuelve la data de todos los hoteles)
+- GET - https://my-json-server.typicode.com/yickson/serverjson/hotels/{id} (Devuelve la data de un hotel individual)
