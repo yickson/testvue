@@ -9,3 +9,8 @@ Herramientas a utilizar en la prueba:
 - *Consumo API con Axios*
 - *Manejo de Vuex para el almacenamiento de la información*
 - Cualquier otro adicional que le agregues a tu Prueba contará como un plus.
+
+La API a utilizar es la siguiente:
+
+GET - https://my-json-server.typicode.com/yickson/serverjson/hotels (Devuelve la data de todos los hoteles)
+GET - https://my-json-server.typicode.com/yickson/serverjson/hotels/{id} (Devuelve la data de un hotel individual)
